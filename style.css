@@ -103,7 +103,7 @@
 /* Main tags */
 
 body {
-	background:  repeat;
+	background:  none;
 	margin: 0;
 }
 
@@ -326,7 +326,7 @@ ul {
 		width: 30px;
 		height: 30px;
 		z-index: 9;
-		background:  repeat;
+		background:  none;
     transform: rotate(45deg);
 	}
 	.cut2:before {
@@ -337,7 +337,7 @@ ul {
 	    width: 30px;
 	    height: 30px;
 	    z-index: 9;
-	    background: repeat;
+	    background: none;
       transform: rotate(45deg);
 	}
 	.content {
