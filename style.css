@@ -144,7 +144,7 @@ blockquote, p , a, li {
 }
 
 a:focus { 
-    outline: none;
+    outline: dotted;
 }
 
 ul {
